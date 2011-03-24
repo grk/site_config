@@ -1,0 +1,2 @@
+module SiteConfig
+end
